@@ -6,10 +6,10 @@ Lately I've been focusing on protocol development.
 
 Some projects I worked on:
 
-* [lodestar](https://github.com/ChainSafe/lodestar) Ethereum EL client
+* [lodestar](https://github.com/ChainSafe/lodestar) Ethereum [consensus client](https://ethereum.org/en/developers/docs/nodes-and-clients/#lodestar)
 * 🦀 [substrate-playground](https://github.com/paritytech/substrate-playground) and [governance-ui](https://github.com/paritytech/governance-ui) polkadot tooling
 * [status.im](https://github.com/status-im/status-mobile) a mobile Ethereum wallet/DApp browser
-* [extensions-fiddle](https://github.com/jeluard/extensions-fiddle) a secure decentralized and permissionless extension mechanism for mobile apps, using IPFS
+* [extensions-fiddle](https://github.com/jeluard/extensions-fiddle) a secure, decentralized and permissionless extension mechanism for mobile apps, using IPFS
 
 Some other Open Source contributions:
 
