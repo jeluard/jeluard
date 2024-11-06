@@ -1,8 +1,8 @@
 # Hey! Nice to see you 😎  
 
 
-Building in the blockchain space since 2017, I have been contributing to multiple ecosystems (Ethereum, Polkadot) in multiple languages (TypeScript, Rust, Clojure).
-Lately I've been focusing on protocol development.
+Building in the blockchain space since 2017, I have been contributing to multiple ecosystems (Ethereum, Polkadot) in multiple languages (Rust, TypeScript, Clojure).
+Now focusing on protocol development, system programming (Rust) and zero-knowledge and its applications.
 
 Some projects I worked on:
 
